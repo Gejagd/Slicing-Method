@@ -13,4 +13,4 @@ ganti = input("Ganti dengan: ").lower()
 
 hasil = kalimat.replace(cari, ganti)
 
-print("Hasil Akhir", hasil)
+print("Hasil Akhir:", hasil)
